@@ -17,8 +17,22 @@ body {
   }
 
 
-/* Vaivos stiliaus kodas: */
 
+/* Saruno stiliaus kodas: */
+.foto-dydis {
+  height: 150px;
+  width: 150px;
+  }
+
+  .container {
+    width: 50%;
+    max-width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    
+/* Vaivos stiliaus kodas: */
 div.flexbox {
   display: flex;
   }
