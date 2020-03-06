@@ -1,7 +1,10 @@
+
 <?php include "header.php" ?>
 
 
-<img src="https://picsum.photos/200" alt="">
+
+<!-- Čia apie puslapio vidinė dalis -->
+
 
 
 <?php include "footer.php" ?>
