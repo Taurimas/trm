@@ -17,11 +17,27 @@ body {
   }
 
 
-/* Vardas2 stiliaus kodas: */
+/* Vaivos stiliaus kodas: */
 
+div.flexbox {
+  display: flex;
+  }
+  
+  div.flexbox div {
+      align-items: center;
+      width: 33.333%;
+      text-align: center;
+  }
+ 
 
+div.googlemap {
+  text-align: right;
+}
 
-
+.mapframe {
+  height: 200px;
+  width: 50px;
+}
 
 /* Vardas3 stiliaus kodas: */
 
