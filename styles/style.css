@@ -19,18 +19,23 @@ body {
 
 /* Saruno stiliaus kodas: */
 .foto-dydis {
-  height: 150px;
-  width: 150px;
+  width: 500px;
   }
-
   .container {
-    width: 50%;
-    max-width: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    }
+    max-width: 500px;
+  }
+  .inputs {
+    display: flex;
+    justify-content: center;
 
-    
+.viskas {	
+      border: solid 15px #000000;
+      padding: 30px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      width: 100%;	
+}		
+  
 
 
 
