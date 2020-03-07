@@ -17,28 +17,41 @@ body {
   }
 
 
+
 /* Saruno stiliaus kodas: */
 .foto-dydis {
   width: 500px;
   }
-  .container {
-    max-width: 500px;
+.container {
+max-width: 500px;
   }
-  .inputs {
-    display: flex;
-    justify-content: center;
+.inputs {
+display: flex;
+justify-content: center;
+	
 
-.viskas {	
-      border: solid 15px #000000;
-      padding: 30px;
-      margin-top: 50px;
-      margin-bottom: 50px;
-      width: 100%;	
-}		
+    
+/* Vaivos stiliaus kodas: */
+div.flexbox {
+  display: flex;
+  }
   
+  div.flexbox div {
+      align-items: center;
+      width: 33.333%;
+      text-align: center;
+  }
+ 
+>>>>>>> 78b9484ef9be814faa5876ae1bea482e01bf02db
 
+div.googlemap {
+  text-align: right;
+}
 
-
+.mapframe {
+  height: 200px;
+  width: 50px;
+}
 
 /* Vardas3 stiliaus kodas: */
 
