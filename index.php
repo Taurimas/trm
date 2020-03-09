@@ -7,7 +7,7 @@
   <div class="container">
 
   <div class="row">
-  <div class="col s9">
+  <div class="col s8">
     
   <div class="card">
   <div class="card-image waves-effect waves-block waves-light">
@@ -24,7 +24,7 @@
 </div>
 </div>
 
-<div class="col s9">
+<div class="col s8">
 
 <div class="card">
   <div class="card-image waves-effect waves-block waves-light">
