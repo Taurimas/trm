@@ -6,6 +6,9 @@
 
   <div class="container">
 
+  <div class="row">
+  <div class="col s1">
+    
   <div class="card">
   <div class="card-image waves-effect waves-block waves-light">
     <img class="activator" src="foto\dukstu_pazintinis_takas.jpg">
@@ -19,7 +22,9 @@
     <p>Here is some more information about this product that is only revealed once clicked on.</p>
   </div>
 </div>
+</div>
 
+<div class="col s1">
 
 <div class="card">
   <div class="card-image waves-effect waves-block waves-light">
@@ -35,11 +40,10 @@
   </div>
 </div>
 
-<div class="row">
-      <div class="col s1">1</div>
-      <div class="col s1">2</div>
-      <div class="col s1">3</div>
+</div>
 
-  </div>
+</div>
+
+<
 
 <?php include "footer.php" ?>
