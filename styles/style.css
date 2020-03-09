@@ -32,12 +32,11 @@ margin-right: auto;
 .inputs {
 display: flex;
 justify-content: center;
-
+}
 	
 
-    
 /* Vaivos stiliaus kodas: */
-div.flexbox {
+div.flexbox1 {
   display: flex;
   }
   
