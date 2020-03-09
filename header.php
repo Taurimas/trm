@@ -43,3 +43,12 @@
   
 
     <!-- Čia pasikartojanti visuose puslapiuose viršutinė dalis -->
+
+
+    
+
+
+
+
+
+

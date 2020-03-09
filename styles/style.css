@@ -20,16 +20,15 @@ body {
 
 /* Saruno stiliaus kodas: */
 .foto-dydis {
-  height: 150px;
-  width: 150px;
+  width: 500px;
   }
-
-  .container {
-    width: 50%;
-    max-width: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    }
+.container {
+max-width: 500px;
+  }
+.inputs {
+display: flex;
+justify-content: center;
+	
 
     
 /* Vaivos stiliaus kodas: */
@@ -43,6 +42,7 @@ div.flexbox {
       text-align: center;
   }
  
+>>>>>>> 78b9484ef9be814faa5876ae1bea482e01bf02db
 
 div.googlemap {
   text-align: right;
