@@ -17,7 +17,7 @@
 
 <body>
 <main>
-<div class="container">
+
 <div class="navbar-fixed">
 <nav>
     <div class="nav-wrapper">
@@ -79,4 +79,3 @@
 
 
 
-</div>
