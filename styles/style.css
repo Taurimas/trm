@@ -22,12 +22,17 @@ body {
 .foto-dydis {
   width: 500px;
   }
-.container {
+.foto {
+width: 100%;
 max-width: 500px;
+margin-left: auto;
+margin-right: auto;
+
   }
 .inputs {
 display: flex;
 justify-content: center;
+
 	
 
     
@@ -42,7 +47,7 @@ div.flexbox {
       text-align: center;
   }
  
->>>>>>> 78b9484ef9be814faa5876ae1bea482e01bf02db
+
 
 div.googlemap {
   text-align: right;
