@@ -1,9 +1,5 @@
 <?php include "header.php" ?>
 
-
-<!-- <body style="background-color:PaleGreen;">  -->
-<!-- !-- <div style="background-image: url('foto/forest4.jpg');">   -->
-
 <div class="container foto">
     
     <h1 class = "center-align">Dūkštų ąžuolyno pažintinis takas</h1>
@@ -47,10 +43,33 @@
     <div class="inputs">
     <a class="waves-effect waves-light btn" href="https://nesedeknamuose.lt/nuo-slaptavietes-iki-slaptavietes-algimanto-apygardos-partizanu-kovu-takais/">Skaityti daugiau</a>
     </div>
-    <a href='https://embedmap.org/'>map generator</a> 
+    
     <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=b417ad819f92290e0e7debbb41c8b82dbec8e308'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/646772/t/2"></script>
 
+<head>
+<script>
+function startTime() {
+  var today = new Date();
+  var h = today.getHours();
+  var m = today.getMinutes();
+  var s = today.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt').innerHTML =
+  h + ":" + m + ":" + s;
+  var t = setTimeout(startTime, 500);
+}
+function checkTime(i) {
+  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+  return i;
+}
+</script>
+</head>
+
+<body onload="startTime()">
+
+<div id="txt"></div>
 
 
     <?php include "footer.php" ?>

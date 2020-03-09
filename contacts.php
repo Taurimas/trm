@@ -39,6 +39,8 @@
 
 </div>
 
+<h6>Susisiekite su mumis!</h6>
+
 <div class="container">
   <form action="action_page.php">
 
