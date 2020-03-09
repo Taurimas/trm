@@ -5,24 +5,24 @@
           <div class="container">
             <div class="row">
               <div class="col l6 s12">
-                <h5 class="white-text">Footer Content</h5>
-                <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+                <h5 class="white-text">Quote of the day</h5>
+                <p class="grey-text text-lighten-4">Growing old is mandatory, but growing up is optional.</p>
               </div>
               <div class="col l4 offset-l2 s12">
-                <h5 class="white-text">Links</h5>
+                <h5 class="white-text">If you dare</h5>
                 <ul>
-                  <li><a class="grey-text text-lighten-3" href="https://picsum.photos/smile/1/200/300">Link 1</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-                  <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+                  <li><a class="grey-text text-lighten-3" href="foto/smile1.jpg">click me</a></li>
+                  <li><a class="grey-text text-lighten-3" href="foto/smile2.jpg">and me</a></li>
+                  <li><a class="grey-text text-lighten-3" href="foto/smile3.jpg">me too</a></li>
+                  <li><a class="grey-text text-lighten-3" href="foto/smile4.jpg">me three</a></li>
                 </ul>
               </div>
             </div>
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2014 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            © 2020 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">You wouldn't</a>
             </div>
           </div>
         </footer>
