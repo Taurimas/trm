@@ -29,11 +29,8 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script src="scripts/script.js"></script>
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 6a72ad7e25089cf80f4d84b8f20090edf53f6cce
 
 </body>
 </html>
