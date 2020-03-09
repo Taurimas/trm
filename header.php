@@ -25,7 +25,7 @@
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="index.php">Home</a></li>
-        <li><a href="objektas.php">Objektas</a></li>
+        <li><a href="objektas.php">Pažintiniai takai</a></li>
         <li><a href="collapsible.html">Javascript</a></li>
         <li><a href="mobile.html">Mobile</a></li>
       </ul>
