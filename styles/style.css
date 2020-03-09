@@ -40,9 +40,10 @@ div.flexbox1 {
   display: flex;
   }
   
-  div.flexbox div {
+  div.flexbox1 div {
       align-items: center;
       width: 33.333%;
+      padding: 10px;
       text-align: center;
   }
  
@@ -54,7 +55,11 @@ div.googlemap {
 
 .mapframe {
   height: 200px;
-  width: 50px;
+  width: 500px;
+}
+
+div.container div.flexbox1 div.images {
+width: 100%;
 }
 
 /* Vardas3 stiliaus kodas: */
