@@ -14,7 +14,7 @@
     <p><a href="#">This is a link</a></p>
   </div>
   <div class="card-reveal">
-    <span class="card-title grey-text text-darken-4">C:\xampp\htdocs\trm\foto<i class="material-icons right">close</i></span>
+    <span class="card-title grey-text text-darken-4">foto\dukstu_pazintinis_takas.jpg<i class="material-icons right">close</i></span>
     <p>Here is some more information about this product that is only revealed once clicked on.</p>
   </div>
 </div>
