@@ -17,11 +17,41 @@ body {
   }
 
 
-/* Vardas2 stiliaus kodas: */
 
+/* Saruno stiliaus kodas: */
+.foto-dydis {
+  width: 500px;
+  }
+.container {
+max-width: 500px;
+  }
+.inputs {
+display: flex;
+justify-content: center;
+	
 
+    
+/* Vaivos stiliaus kodas: */
+div.flexbox {
+  display: flex;
+  }
+  
+  div.flexbox div {
+      align-items: center;
+      width: 33.333%;
+      text-align: center;
+  }
+ 
+>>>>>>> 78b9484ef9be814faa5876ae1bea482e01bf02db
 
+div.googlemap {
+  text-align: right;
+}
 
+.mapframe {
+  height: 200px;
+  width: 50px;
+}
 
 /* Vardas3 stiliaus kodas: */
 
