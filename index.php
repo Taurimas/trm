@@ -4,6 +4,7 @@
 
   <!-- Čia pagrindinio puslapio vidinė dalis -->
 
+  <div class="container">
 
   <div class="card">
   <div class="card-image waves-effect waves-block waves-light">
@@ -33,5 +34,7 @@
     <p>Here is some more information about this product that is only revealed once clicked on.</p>
   </div>
 </div>
+
+  </div>
 
 <?php include "footer.php" ?>
