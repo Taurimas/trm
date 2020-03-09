@@ -3,29 +3,32 @@
 <!-- Čia kontaktų puslapio vidinė dalis -->
 
 <div class="container">
-    <h3>How to arrive?</h3>
+    <h3>Kaip mus rasti?</h3>
 
     <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam dolore facere animi amet eos, distinctio aliquid accusantium blanditiis recusandae corrupti. Sint dolorem nihil numquam ipsam praesentium quae obcaecati et modi.lorem
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum libero impedit corrupti soluta dolorum. Repudiandae rem nam praesentium molestiae nostrum libero tempora doloremque at rerum deserunt sequi, suscipit, autem eveniet.
     </p>
+    <div class="col s4">
 
+    <div class="images">
     <div class= "flexbox1">
-
     <div>
-        <img src="https://picsum.photos/201" alt="">
+        <img src="foto/Autobusas.jpg" alt="Image" height="100" width="150">
         <h5>takas</h5>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro quae esse rerum laboriosam possimus eum dolore ea dicta expedita nemo nobis molestias placeat ipsam voluptate, non dolorum! Impedit, cupiditate rem!</p>
-
     </div>
 
     <div>
-        <img src="https://picsum.photos/201" alt="">
-
+        <img src="foto/Traukinys.jpg" alt="Image" height="100" width="150">
+        <h5>takas</h5>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro quae esse rerum laboriosam possimus eum dolore ea dicta expedita nemo nobis molestias placeat ipsam voluptate, non dolorum! Impedit, cupiditate rem!</p>
     </div>
-
+    </div>
     <div>
-        <img src="https://picsum.photos/201" alt="">
+        <img src="foto/Automobilis.jpg" alt="Image" height="100" width="100">
+        <h5>takas</h5>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro quae esse rerum laboriosam possimus eum dolore ea dicta expedita nemo nobis molestias placeat ipsam voluptate, non dolorum! Impedit, cupiditate rem!</p>
     </div>
 
     </div>
