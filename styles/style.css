@@ -22,17 +22,18 @@ body {
 .foto-dydis {
   width: 500px;
   }
-.container {
+.foto {
+width: 100%;
 max-width: 500px;
+margin-left: auto;
+margin-right: auto;
+
   }
 .inputs {
 display: flex;
 justify-content: center;
 }
-
-
-
-
+	
 
 /* Vaivos stiliaus kodas: */
 div.flexbox1 {
