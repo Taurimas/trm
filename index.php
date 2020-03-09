@@ -4,22 +4,30 @@
 
   <!-- Čia pagrindinio puslapio vidinė dalis -->
 
-  <h1>Ar žinojai?</h1>
-  <p>Lietuva – gamtiniais ištekliais turtinga šalis, turinti potencialą pažintiniam turizmui
+  <div class="container">
+  <h1>   Ar žinojai?</h1>
+
+  
+
+  <p  >Lietuva – gamtiniais ištekliais turtinga šalis, turinti potencialą pažintiniam turizmui
 plėtoti. Unikali gamta, kraštovaizdžių įvairovė, retos augalų ir gyvūnų rūšys, gamtos ir kultūros
 paveldo objektai – mūsų krašto turtai, kuriuos galima išvysti apsilankius Lietuvos saugomose
 teritorijose</p>
 
-<p>Pažintinių takų aktyvus planavimas, įrengimas ir naudojimas prasidėjo dar XX a. 7–8
+<p> Pažintinių takų aktyvus planavimas, įrengimas ir naudojimas prasidėjo dar XX a. 7–8
 dešimtmečiuose, kada visoje Europoje buvo populiari ekologija. Įvairiose šalyse pradėta
 intensyviai planuoti ir įrenginėti įvairaus pobūdžio pažintinius takus, skirtus aktyviam
-kraštovaizdžio išteklių bei jo vertybių panaudojimui. Tiek Vakarų Europoje tiek Vidurio ir Rytų
-Europoje buvo sukurti lankymui parengtų turistinių pažintinių takų tinklai. Lietuva, nors ir lėčiau
+kraštovaizdžio išteklių bei jo vertybių panaudojimui. Pažintinių takų panaudojimas tampa vis platesnis ir pritaikomesnis edukacijoje. Pažintinių
+takų steigimas tapo neatsiejama reakreacijos ir edukacijos dalimi.. Lietuva, nors ir lėčiau
 steigė takus, tačiau taip pat intensyviai tame procese dalyvavo. Dar praėjusio amžiaus VIII
 dešimtmečio pabaigoje pradėta planuoti bei rengti pirmuosius pažintinius pasivaikščiojimo takus,
 o ypač svarbus indėlis į šią sritį buvo įneštas IX a. dešimtmetyje, kada P. Kavaliauskas pateikė
 pirmąją kompleksinę rekreacinių takų klasifikaciją ir buvo parengtos metodinės rekomendacijos
-takams steigti.</p>
+takams steigti. Lietuvoje kiekvienais metais įsteigiami pažintiniai takai, todėl šis
+skaičius kasmet tik didėja. 2015 metų duomenimis - Lietuvoje išviso įsteigtas 91 pažintinis
+takas.</p>
+
+</div>
   
 
   <div class="container">
@@ -46,7 +54,7 @@ takams steigti.</p>
 
 <div class="card">
   <div class="card-image waves-effect waves-block waves-light">
-    <img class="activator" src="https://picsum.photos/200/300">
+    <img class="activator" src="foto\pazintiniai-takai-lietuvoje.jpg">
   </div>
   <div class="card-content">
     <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
