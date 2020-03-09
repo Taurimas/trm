@@ -28,11 +28,14 @@ max-width: 500px;
 .inputs {
 display: flex;
 justify-content: center;
-	
+}
 
-    
+
+
+
+
 /* Vaivos stiliaus kodas: */
-div.flexbox {
+div.flexbox1 {
   display: flex;
   }
   
@@ -42,7 +45,7 @@ div.flexbox {
       text-align: center;
   }
  
->>>>>>> 78b9484ef9be814faa5876ae1bea482e01bf02db
+
 
 div.googlemap {
   text-align: right;

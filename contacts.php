@@ -10,7 +10,7 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum libero impedit corrupti soluta dolorum. Repudiandae rem nam praesentium molestiae nostrum libero tempora doloremque at rerum deserunt sequi, suscipit, autem eveniet.
     </p>
 
-    <div class= "flexbox">
+    <div class= "flexbox1">
 
     <div>
         <img src="https://picsum.photos/201" alt="">
