@@ -15,17 +15,17 @@
     <title>Projekto pavadinimas</title>
 </head>
 
-<body>
+<body class = "grey lighten-2">
 <main>
 
 <div class="navbar-fixed">
 <nav>
-    <div class="nav-wrapper">
+    <div class="nav-wrapper teal darken-2">
       <a href="#!" class="brand-logo">PAŽINTINIAI TAKAI</a>
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="index.php">Home</a></li>
-        <li><a href="objektas.php">Objektas</a></li>
+        <li><a href="objektas.php">Pažintiniai takai</a></li>
         <li><a href="collapsible.html">Javascript</a></li>
         <li><a href="mobile.html">Mobile</a></li>
       </ul>
@@ -33,7 +33,7 @@
   </nav>
 </div>
 
-  <ul class="sidenav" id="mobile-demo">
+  <ul class="sidenav teal darken-2" id="mobile-demo">
     <li><a href="sass.html">HOME</a></li>
     <li><a href="badges.html">PASIŪLYMAI</a></li>
     <li><a href="collapsible.html">INFORMACIJA</a></li>
