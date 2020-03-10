@@ -21,8 +21,8 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
-            © 2020 Copyright Text
-            <a class="grey-text text-lighten-4 right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">You wouldn't</a>
+            © 2020 Copyright
+            <a class="grey-text text-lighten-4 right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">CLICK</a>
             </div>
           </div>
         </footer>
