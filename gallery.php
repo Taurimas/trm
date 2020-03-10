@@ -1,6 +1,6 @@
 <?php include "header.php" ?>
 
-<div class="container">
+<div id="foto1" class="container">
 
     <h1>Galerija</h1>
 
