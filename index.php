@@ -72,10 +72,10 @@
 
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
-          <img class="activator" src="foto\icon1.jpg">
+          <img class="activator" src="foto\icon3.jpg">
         </div>
         <div class="card-content">
-          <span class="card-title activator grey-text text-darken-4">Važiuojam<i class="material-icons right">more_vert</i></span>
+          <span class="card-title activator grey-text text-darken-4">Kaip nuvykti?<i class="material-icons right">more_vert</i></span>
           <p><a href="contacts.php">Sužinoti daugiau</a></p>
         </div>
         <div class="card-reveal">
