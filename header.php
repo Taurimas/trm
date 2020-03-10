@@ -25,20 +25,19 @@
       <a href="index.php" class="brand-logo">PAŽINTINIAI TAKAI</a>
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
    
-      <ul class="right hide-on-med-and-down">
+      <ul class="right hide-on-med-and-down btn">
       
         <li><a href="index.php">Pagrindinis</a></li>
         <li><a href="objektas.php">Top pažintiniai takai</a></li>
-        <a class='dropdown-trigger btn' href='#' data-target='dropdown1'>Pažintiniai takai</a>
-  <ul id='dropdown1' class='dropdown-content'>
-    <li><a href="#!">Dūkštų ąžuolyno</a></li>
-    <li><a href="#!">Velniabliūdžio</a></li>
-    <li><a href="#!">Partizanų</a></li>
-  </ul>
         <li><a href="gallery.php">Galerija</a></li>
         <li><a href="contacts.php">Informacija</a></li>
         <!-- <li><a href="mobile.html">Mobile</a></li> -->
-
+        <a class='dropdown-trigger btn' href='#' data-target='dropdown1'>Pažintiniai takai</a>
+  <ul id='dropdown1' class='dropdown-content'>
+    <li><a href="https://nesedeknamuose.lt/dukstu-azuolyno-pazintinis-takas/">Dūkštų ąžuolyno</a></li>
+    <li><a href="https://nesedeknamuose.lt/takas-su-pabaiga-bet-be-pradzios-tikras-velniabliudis//">Velniabliūdžio</a></li>
+    <li><a href="https://nesedeknamuose.lt/nuo-slaptavietes-iki-slaptavietes-algimanto-apygardos-partizanu-kovu-takais/">Partizanų</a></li>
+  </ul>
         
       </ul>
     </div>
