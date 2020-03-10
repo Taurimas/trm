@@ -59,7 +59,7 @@
         </div>
         <div class="card-content">
           <span class="card-title activator grey-text text-darken-4">Galerija<i class="material-icons right">more_vert</i></span>
-          <p><a href="#">Pamatyti daugiau</a></p>
+          <p><a href="gallery.php">Pamatyti daugiau</a></p>
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">Galerija<i class="material-icons right">close</i></span>

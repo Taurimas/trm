@@ -25,7 +25,8 @@
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="index.php">Pagrindinis</a></li>
-        <li><a href="https://www.tv3.lt/naujiena/gyvenimas/997157/top-graziausi-lietuvos-pazintiniai-takai">Top pažintiniai takai</a></li>
+        <li><a href="objektas.php">Top pažintiniai takai</a></li>
+        <li><a href="gallery.php">Galerija</a></li>
         <li><a href="contacts.php">Informacija</a></li>
         <!-- <li><a href="mobile.html">Mobile</a></li> -->
       </ul>
