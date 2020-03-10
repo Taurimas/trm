@@ -6,8 +6,7 @@
     <h3>Kaip mus rasti?</h3>
 
     <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam dolore facere animi amet eos, distinctio aliquid accusantium blanditiis recusandae corrupti. Sint dolorem nihil numquam ipsam praesentium quae obcaecati et modi.lorem
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum libero impedit corrupti soluta dolorum. Repudiandae rem nam praesentium molestiae nostrum libero tempora doloremque at rerum deserunt sequi, suscipit, autem eveniet.
+        Įmonę „Keliauk pėsčiomis“ rasite Vytauto g. 5, Dusetos, Zarasų raj. LT-32309. Mus legvai galite pasiekti žemiau nurodytais būdais.
     </p>
     <div class="col s4">
 
@@ -15,19 +14,19 @@
             <div class="flexbox1">
                 <div>
                     <img src="foto/Autobusas.jpg" alt="Image" height="100" width="150">
-                    <h5>takas</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro quae esse rerum laboriosam possimus eum dolore ea dicta expedita nemo nobis molestias placeat ipsam voluptate, non dolorum! Impedit, cupiditate rem!</p>
+                    <h5>Autobusu</h5>
+                    <p><a href="https://www.118.lt/transporto-tvarkarasciai/paieska/dusetos-utena" target="_blank">Autobusų tvarkaraščiai</a></p>
                 </div>
 
                 <div>
                     <img src="foto/Traukinys.jpg" alt="Image" height="100" width="150">
-                    <h5>takas</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro quae esse rerum laboriosam possimus eum dolore ea dicta expedita nemo nobis molestias placeat ipsam voluptate, non dolorum! Impedit, cupiditate rem!</p>
+                    <h5>Traukiniu</h5>
+                    <p><p><a href="https://www.traukiniobilietas.lt/portal/routes-schedules" target="_blank">Traukinių tvarkaraščiai</a></p></p>
                 </div>
                 <div>
                     <img src="foto/Automobilis.jpg" alt="Image" height="100" width="150">
-                    <h5>takas</h5>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro quae esse rerum laboriosam possimus eum dolore ea dicta expedita nemo nobis molestias placeat ipsam voluptate, non dolorum! Impedit, cupiditate rem!</p>
+                    <h5>Automobiliu</h5>
+                    <p><p><a href="https://www.google.com/maps/d/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1iqY48eEpYUzHZOrVC-CNvdNeObk&ll=55.19004016814186%2C23.88127499999996&z=7" target="_blank">Automobilių maršrutai</a></p></p>
                 </div>
             </div>
 
@@ -37,7 +36,7 @@
         <div class="flexbox2">
             <div class="mapsbytext">
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi molestiae illum cupiditate nesciunt! Perferendis, voluptas consequatur cupiditate, quam accusantium rem eligendi eaque veniam, enim quas ratione quaerat maiores inventore. Doloribus.</p>
+                <p>Vytauto g. 5, Dusetos, Zarasų r., LT-32309,<br> tel. (8–385) 56849 <br> el. paštas: keliauk@pesciomis.lt kodas: 188738178. </p>
             </div>
             <div class="googlemap">
 
@@ -49,7 +48,7 @@
 
     <h6>Susisiekite su mumis!</h6>
 
-    <form action="action_page.php" class="grey darken-1" class="formosklase">
+    <form action="action_page.php" class="grey darken-1 formosklase">
 
         <label for="fname">Jūsų vardas</label>
         <input type="text" id="fname" name="firstname" placeholder="Vardas, pavardė">
