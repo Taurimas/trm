@@ -40,12 +40,12 @@ takas.</p>
     <img class="activator" src="foto\dukstu_pazintinis_takas.jpg">
   </div>
   <div class="card-content">
-    <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-    <p><a href="#">This is a link</a></p>
+    <span class="card-title activator grey-text text-darken-4">Dūkštų ąžuolyno pažintinis takas<i class="material-icons right">more_vert</i></span>
+    <p><a href="objektas.php">Sužinoti daugiau</a></p>
   </div>
   <div class="card-reveal">
-    <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-    <p>Here is some more information about this product that is only revealed once clicked on.</p>
+    <span class="card-title grey-text text-darken-4">Dūkštų ąžuolyno pažintinis takas<i class="material-icons right">close</i></span>
+    <p>Dūkštos pažintinis takas – tai vienas sudėtingiausių, daug fizinių jėgų reikalaujantis, tačiau pats įdomiausias Neries regioninio parko maršrutas, kuriuo tikrai verta keliauti.</p>
   </div>
 </div>
 </div>
