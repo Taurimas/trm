@@ -56,13 +56,34 @@ div.googlemap {
 
 .mapframe {
   height: 200px;
-  width: 500px;
+  width: 100%;
 }
 
 div.container div.flexbox1 div.images {
 width: 100%;
 }
 
+div.flexbox2 {
+  display: flex;
+  }
+
+  div.flexbox2{
+    align-items: center;
+    padding: 10px;
+  
+}
+
+.mapsbytext {
+  width: 30%;
+}
+
+.googlemap{
+  width: 70%;
+}
+
+.formosklase {
+  padding: 20px;
+}
 /* Vardas3 stiliaus kodas: */
 
 

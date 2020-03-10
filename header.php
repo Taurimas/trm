@@ -28,13 +28,14 @@
       <ul class="right hide-on-med-and-down">
       
         <li><a href="index.php">Pagrindinis</a></li>
-        <li><a href="https://www.tv3.lt/naujiena/gyvenimas/997157/top-graziausi-lietuvos-pazintiniai-takai">Top pažintiniai takai</a></li>
+        <li><a href="objektas.php">Top pažintiniai takai</a></li>
         <a class='dropdown-trigger btn' href='#' data-target='dropdown1'>Pažintiniai takai</a>
   <ul id='dropdown1' class='dropdown-content'>
     <li><a href="#!">Dūkštų ąžuolyno</a></li>
     <li><a href="#!">Velniabliūdžio</a></li>
     <li><a href="#!">Partizanų</a></li>
   </ul>
+        <li><a href="gallery.php">Galerija</a></li>
         <li><a href="contacts.php">Informacija</a></li>
         <!-- <li><a href="mobile.html">Mobile</a></li> -->
 
