@@ -14,10 +14,7 @@
     teritorijose</p>
 
   <p> Pažintinių takų aktyvus planavimas, įrengimas ir naudojimas prasidėjo dar XX a. 7–8
-    dešimtmečiuose, kada visoje Europoje buvo populiari ekologija. Įvairiose šalyse pradėta
-    intensyviai planuoti ir įrenginėti įvairaus pobūdžio pažintinius takus, skirtus aktyviam
-    kraštovaizdžio išteklių bei jo vertybių panaudojimui. Pažintinių takų panaudojimas tampa vis platesnis ir pritaikomesnis edukacijoje. Pažintinių
-    takų steigimas tapo neatsiejama reakreacijos ir edukacijos dalimi.. Lietuva, nors ir lėčiau
+    dešimtmečiuose, kada visoje Europoje buvo populiari ekologija. Lietuva, nors ir lėčiau
     steigė takus, tačiau taip pat intensyviai tame procese dalyvavo. Dar praėjusio amžiaus VIII
     dešimtmečio pabaigoje pradėta planuoti bei rengti pirmuosius pažintinius pasivaikščiojimo takus,
     o ypač svarbus indėlis į šią sritį buvo įneštas IX a. dešimtmetyje, kada P. Kavaliauskas pateikė
@@ -68,6 +65,7 @@
       </div>
 
     </div>
+    
     <div class="col s4">
 
       <div class="card">
