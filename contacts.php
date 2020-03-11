@@ -13,20 +13,17 @@
         <div class="images">
             <div class="flexbox1">
                 <div>
-                    <img src="foto/Autobusas.jpg" alt="Image" height="100" width="150">
-                    <h5>Autobusu</h5>
-                    <p><a href="https://www.118.lt/transporto-tvarkarasciai/paieska/dusetos-utena" target="_blank">Autobusų tvarkaraščiai</a></p>
+                    <img class="materialboxed" src="foto/Autobusas.jpg" alt="Image" height="100" width="150">
+                     <a target="_blank" href="https://www.118.lt/transporto-tvarkarasciai/paieska/dusetos-utena" class="waves-effect waves-light btn-small">Autobusu</a>
                 </div>
 
                 <div>
-                    <img src="foto/Traukinys.jpg" alt="Image" height="100" width="150">
-                    <h5>Traukiniu</h5>
-                    <p><p><a href="https://www.traukiniobilietas.lt/portal/routes-schedules" target="_blank">Traukinių tvarkaraščiai</a></p></p>
+                    <img class="materialboxed" src="foto/Traukinys.jpg" alt="Image" height="100" width="150">
+                    <a href="https://www.traukiniobilietas.lt/portal/routes-schedules" target="_blank" class="waves-effect waves-light btn-small">Traukiniu</a>
                 </div>
                 <div>
-                    <img src="foto/Automobilis.jpg" alt="Image" height="100" width="150">
-                    <h5>Automobiliu</h5>
-                    <p><p><a href="https://www.google.com/maps/d/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1iqY48eEpYUzHZOrVC-CNvdNeObk&ll=55.19004016814186%2C23.88127499999996&z=7" target="_blank">Automobilių maršrutai</a></p></p>
+                    <img class="materialboxed" src="foto/Automobilis.jpg" alt="Image" height="100" width="150">
+                    <a href="https://www.google.com/maps/d/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1iqY48eEpYUzHZOrVC-CNvdNeObk&ll=55.19004016814186%2C23.88127499999996&z=7" target="_blank" class="waves-effect waves-light btn-small">Automobiliu</a>
                 </div>
             </div>
 
