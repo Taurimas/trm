@@ -23,7 +23,7 @@
   div.gallery {
     margin: 5px;
     border: 1px solid #ccc;
-    float: left;
+    float: center;
     width: 180px;
   }
   
@@ -59,7 +59,9 @@
       width: 100%;
     }
   }
-  
+  * {
+    box-sizing: border-box;
+  }
   .clearfix:after {
     content: "";
     display: table;
