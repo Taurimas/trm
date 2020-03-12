@@ -2,9 +2,9 @@
 
 <div id="foto1" class="container">
 
-<h1>Galerija</h1>
+    <h1>Galerija</h1>
 
-<!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
     <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
@@ -22,7 +22,7 @@
             <a data-fancybox="gallery" href="foto/pt9.jpg"><img src="foto/pt9.jpg"></a>
             <a data-fancybox="gallery" href="foto/pt10.jpg"><img src="foto/pt10.jpg"></a> -->
 
-<div class="row">
+    <!-- <div class="row">
     <div class="col s8">
 
         <div class="column">
@@ -123,7 +123,11 @@
                 <div class="desc"> </div>
             </div>
         </div>
-    </div>
+    </div> -->
+
+
+
+
 
     <!-- <div class="column">
         <div class="responsive">
@@ -228,13 +232,30 @@
         </div>
     </div> -->
 
+    
+    <div class="gallery" id="gallery">
+        <div class="gallery-item ">
+            <div class="content"><img src="foto/pt5.jpg" class = "materialboxed" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="foto/pt4.jpg" class = "materialboxed" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="foto/pt1.jpg" class = "materialboxed" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="foto/pt2.jpg" class = "materialboxed" alt=""></div>
+        </div>
+        <div class="gallery-item">
+            <div class="content"><img src="foto/pt3.jpg" class = "materialboxed" alt=""></div>
+        </div>
 
     </div>
 
 
 
 
-</div>
+    </div>
 
 </div>
 
@@ -243,4 +264,4 @@
 
 
 
-<?php include "footer.php" ?>
+    <?php include "footer.php" ?>
