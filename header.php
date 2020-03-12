@@ -18,7 +18,7 @@
     
     
 
-    <title>Pažintinais takais</title>
+    <title>Pažintiniais takais</title>
 </head>
 
 
