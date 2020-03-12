@@ -22,7 +22,7 @@
                     <a href="https://www.traukiniobilietas.lt/portal/routes-schedules" target="_blank" class="waves-effect waves-light btn-small">Traukiniu</a>
                 </div>
                 <div>
-                    <img class="materialboxed" src="foto/Automobilis.jpg" alt="Image" height="100" width="150">
+                    <img class="materialboxed" src="foto/automobilis.jpg" alt="Image" height="100" width="150">
                     <a href="https://www.google.com/maps/d/viewer?ie=UTF8&oe=UTF8&msa=0&mid=1iqY48eEpYUzHZOrVC-CNvdNeObk&ll=55.19004016814186%2C23.88127499999996&z=7" target="_blank" class="waves-effect waves-light btn-small">Automobiliu</a>
                 </div>
             </div>
