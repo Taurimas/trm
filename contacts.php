@@ -10,7 +10,7 @@
     </p>
     <div class="col s4">
 
-        <div class="images">
+        <div class="images"> 
             <div class="flexbox1">
                 <div>
                     <img class="materialboxed" src="foto/Autobusas.jpg" alt="Image" height="100" width="150">
